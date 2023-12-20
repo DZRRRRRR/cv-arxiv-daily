@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.19
+## Updated on 2023.12.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,10 +30,10 @@
 |**2023-12-16**|**A Unified Filter Method for Jointly Estimating State and Parameters of Stochastic Dynamical Systems via the Ensemble Score Filter**|Feng Bao et.al.|[2312.10503](http://arxiv.org/abs/2312.10503)|null|
 |**2023-12-16**|**Continuous Diffusion for Mixed-Type Tabular Data**|Markus Mueller et.al.|[2312.10431](http://arxiv.org/abs/2312.10431)|null|
 |**2023-12-16**|**Lecture Notes in Probabilistic Diffusion Models**|Inga Strümke et.al.|[2312.10393](http://arxiv.org/abs/2312.10393)|null|
-|**2023-12-16**|**Image Restoration Through Generalized Ornstein-Uhlenbeck Bridge**|Conghan Yue et.al.|[2312.10299](http://arxiv.org/abs/2312.10299)|**[link](https://github.com/Hammour-steak/GOUB)**|
+|**2023-12-16**|**Image Restoration Through Generalized Ornstein-Uhlenbeck Bridge**|Conghan Yue et.al.|[2312.10299](http://arxiv.org/abs/2312.10299)|null|
 |**2023-12-15**|**Two simple criterion to prove the existence of patterns in reaction-diffusion models of two components**|Francisco J. Vielma-Leal et.al.|[2312.10231](http://arxiv.org/abs/2312.10231)|null|
 
-<p align=right>(<a href=#updated-on-20231219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231220>back to top</a>)</p>
 
 ## Implicit
 
@@ -50,7 +50,7 @@
 |**2023-12-07**|**Hiding Functions within Functions: Steganography by Implicit Neural Representations**|Jia Liu et.al.|[2312.04743](http://arxiv.org/abs/2312.04743)|null|
 |**2023-12-07**|**ImFace++: A Sophisticated Nonlinear 3D Morphable Face Model with Implicit Neural Representations**|Mingwu Zheng et.al.|[2312.04028](http://arxiv.org/abs/2312.04028)|null|
 
-<p align=right>(<a href=#updated-on-20231219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231220>back to top</a>)</p>
 
 ## UnderWater
 
@@ -63,7 +63,7 @@
 |**2022-04-06**|**Medium Transmission Map Matters for Learning to Restore Real-World Underwater Images**|Yan Kai et.al.|[2203.09414](http://arxiv.org/abs/2203.09414)|**[link](https://github.com/groupg-yk/mtur-net)**|
 |**2019-03-06**|**Real-world Underwater Enhancement: Challenges, Benchmarks, and Solutions**|Risheng Liu et.al.|[1901.05320](http://arxiv.org/abs/1901.05320)|**[link](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark)**|
 
-<p align=right>(<a href=#updated-on-20231219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231220>back to top</a>)</p>
 
 ## image_dehaze
 
@@ -80,14 +80,14 @@
 |**2023-08-14**|**Mutual Information-driven Triple Interaction Network for Efficient Image Dehazing**|Hao Shen et.al.|[2308.06998](http://arxiv.org/abs/2308.06998)|**[link](https://github.com/it-hao/mitnet)**|
 |**2023-08-01**|**Decomposition Ascribed Synergistic Learning for Unified Image Restoration**|Jinghao Zhang et.al.|[2308.00759](http://arxiv.org/abs/2308.00759)|null|
 
-<p align=right>(<a href=#updated-on-20231219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231220>back to top</a>)</p>
 
 ## Restoration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-12-17**|**Bengali License Plate Recognition: Unveiling Clarity with CNN and GFP-GAN**|Noushin Afrin et.al.|[2312.10701](http://arxiv.org/abs/2312.10701)|**[link](https://github.com/mhtusher131/bengali-license-plate-recognition_unveling-clarity-with-cnn-and-gfp-gan)**|
-|**2023-12-16**|**Image Restoration Through Generalized Ornstein-Uhlenbeck Bridge**|Conghan Yue et.al.|[2312.10299](http://arxiv.org/abs/2312.10299)|**[link](https://github.com/Hammour-steak/GOUB)**|
+|**2023-12-16**|**Image Restoration Through Generalized Ornstein-Uhlenbeck Bridge**|Conghan Yue et.al.|[2312.10299](http://arxiv.org/abs/2312.10299)|null|
 |**2023-12-15**|**Image Deblurring using GAN**|Zhengdong Li et.al.|[2312.09496](http://arxiv.org/abs/2312.09496)|null|
 |**2023-12-12**|**AdaptIR: Parameter Efficient Multi-task Adaptation for Pre-trained Image Restoration Models**|Hang Guo et.al.|[2312.08881](http://arxiv.org/abs/2312.08881)|**[link](https://github.com/csguoh/adaptir)**|
 |**2023-12-14**|**Guided Image Restoration via Simultaneous Feature and Image Guided Fusion**|Xinyi Liu et.al.|[2312.08853](http://arxiv.org/abs/2312.08853)|null|
@@ -97,7 +97,7 @@
 |**2023-12-12**|**WaterHE-NeRF: Water-ray Tracing Neural Radiance Fields for Underwater Scene Reconstruction**|Jingchun Zhou et.al.|[2312.06946](http://arxiv.org/abs/2312.06946)|null|
 |**2023-12-11**|**Textual Prompt Guided Image Restoration**|Qiuhai Yan et.al.|[2312.06162](http://arxiv.org/abs/2312.06162)|**[link](https://github.com/motong-ai-studio/textpromptir)**|
 
-<p align=right>(<a href=#updated-on-20231219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231220>back to top</a>)</p>
 
 ## Image_Translation
 
@@ -114,7 +114,7 @@
 |**2023-11-30**|**S2ST: Image-to-Image Translation in the Seed Space of Latent Diffusion**|Or Greenberg et.al.|[2312.00116](http://arxiv.org/abs/2312.00116)|null|
 |**2023-11-30**|**Towards Unsupervised Representation Learning: Learning, Evaluating and Transferring Visual Representations**|Bonifaz Stuhr et.al.|[2312.00101](http://arxiv.org/abs/2312.00101)|**[link](https://github.com/bonifazstuhr/feamgan)**|
 
-<p align=right>(<a href=#updated-on-20231219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231220>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
