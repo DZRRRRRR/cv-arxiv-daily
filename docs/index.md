@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-10**|**InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes**|Mohamad Shahbazi et.al.|[2401.05335](http://arxiv.org/abs/2401.05335)|null|
 |**2024-01-10**|**Score Distillation Sampling with Learned Manifold Corrective**|Thiemo Alldieck et.al.|[2401.05293](http://arxiv.org/abs/2401.05293)|null|
-|**2024-01-10**|**PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models**|Junsong Chen et.al.|[2401.05252](http://arxiv.org/abs/2401.05252)|null|
+|**2024-01-10**|**PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models**|Junsong Chen et.al.|[2401.05252](http://arxiv.org/abs/2401.05252)|**[link](https://github.com/PixArt-alpha/PixArt-alpha)**|
 |**2024-01-10**|**Derm-T2IM: Harnessing Synthetic Skin Lesion Data via Stable Diffusion Models for Enhanced Skin Disease Classification using ViT and CNN**|Muhammad Ali Farooq et.al.|[2401.05159](http://arxiv.org/abs/2401.05159)|null|
 |**2024-01-10**|**CrossDiff: Exploring Self-Supervised Representation of Pansharpening via Cross-Predictive Diffusion Model**|Yinghui Xing et.al.|[2401.05153](http://arxiv.org/abs/2401.05153)|null|
 |**2024-01-10**|**SwiMDiff: Scene-wide Matching Contrastive Learning with Diffusion Constraint for Remote Sensing Image**|Jiayuan Tian et.al.|[2401.05093](http://arxiv.org/abs/2401.05093)|null|
@@ -234,7 +234,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-10**|**Score Distillation Sampling with Learned Manifold Corrective**|Thiemo Alldieck et.al.|[2401.05293](http://arxiv.org/abs/2401.05293)|null|
-|**2024-01-09**|**Jump Cut Smoothing for Talking Heads**|Xiaojuan Wang et.al.|[2401.04718](http://arxiv.org/abs/2401.04718)|null|
+|**2024-01-11**|**Jump Cut Smoothing for Talking Heads**|Xiaojuan Wang et.al.|[2401.04718](http://arxiv.org/abs/2401.04718)|null|
 |**2024-01-07**|**Re:Draw -- Context Aware Translation as a Controllable Method for Artistic Production**|Joao Liborio Cardoso et.al.|[2401.03499](http://arxiv.org/abs/2401.03499)|null|
 |**2024-01-06**|**MirrorDiffusion: Stabilizing Diffusion Process in Zero-shot Image Translation by Prompts Redescription and Beyond**|Yupei Lin et.al.|[2401.03221](http://arxiv.org/abs/2401.03221)|null|
 |**2023-12-31**|**RainSD: Rain Style Diversification Module for Image Synthesis Enhancement using Feature-Level Style Distribution**|Hyeonjae Jeon et.al.|[2401.00460](http://arxiv.org/abs/2401.00460)|null|
